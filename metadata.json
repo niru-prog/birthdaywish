@@ -1,0 +1,6 @@
+{
+  "name": "CelebrationBox - Personalized Birthday Wishes",
+  "description": "An interactive, personalized birthday celebration website with animated envelope, custom cake candles, wishes wall, and birthday tunes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
